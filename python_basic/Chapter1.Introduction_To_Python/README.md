@@ -149,22 +149,9 @@ print('Hello, world!')
 </table>
 
 
-
------------
-
-
-
-<p align="center">
-<b>
-🚀 موفق باشی
-</b>
-</p>
-
-
-
 ------
 
-👋 Hi, I’m @arashyeganeh.
+👋 Hi, I’m Arash Yeganeh.
 
 How can you best ❤️ **Support me** ❤️  :
 

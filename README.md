@@ -20,7 +20,15 @@ This is a repository of all tutorials of [Geek Cast](https://geekcast.net) and [
 
 |  Part Name   | GitHub Doc |
 | :----------: | :-------: |
-| Introduction To Python | [Read](/python_basic/Chapter_1/Chapter1.Introduction_To_Python.md) |
+| Introduction To Python | [Read](/python_basic/Chapter1.Introduction_To_Python) |
+
+### Chapter 2. Python Installation
+
+|  Part Name   | GitHub Doc |
+| :----------: | :-------: |
+| Install Python on Windows 11 | [Read](/python_basic/Chapter2.Python_Installation) |
+| Install Python on Ubuntu / Debian | [Read](/python_basic/Chapter2.Python_Installation#نصب-در-اوبونتو--دبیان) |
+| Install Python on Fedora / CentOS | [Read](/python_basic/Chapter2.Python_Installation#نصب-در-فدورا--سنت-او-اس) |
 
 ## License
 
