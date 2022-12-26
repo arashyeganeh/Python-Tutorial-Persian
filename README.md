@@ -30,6 +30,16 @@ This is a repository of all tutorials of [Geek Cast](https://geekcast.net) and [
 | Install Python on Ubuntu / Debian | [Read](/python_basic/Chapter2.Python_Installation#نصب-در-اوبونتو--دبیان) |
 | Install Python on Fedora / CentOS | [Read](/python_basic/Chapter2.Python_Installation#نصب-در-فدورا--سنت-او-اس) |
 
+### Chapter 3. How Many Ways Are There To Run Python
+
+|  Part Name   | GitHub Doc |
+| :----------: | :-------: |
+| How many ways are there to run Python? | [Read](/python_basic/Chapter3.How_Many_Ways_Are_There_To_Run_Python) |
+| Interactive Mode in Windows | [Read](/python_basic/Chapter3.How_Many_Ways_Are_There_To_Run_Python#تعاملی--interactive-mode-) |
+| Interactive Mode in Linux | [Read](/python_basic/Chapter3.How_Many_Ways_Are_There_To_Run_Python#لینوکس) |
+| How to quit interactive mode | [Read](/python_basic/Chapter3.How_Many_Ways_Are_There_To_Run_Python#خروج-از-محیط-idle-بدون-بستن-پنجره-ترمینال) |
+| Script Mode | [Read](/python_basic/Chapter3.How_Many_Ways_Are_There_To_Run_Python#اسکریپت--script-mode-) |
+
 ## License
 
 Anyone may contribute to our project. Submit a pull request or raise an issue.
