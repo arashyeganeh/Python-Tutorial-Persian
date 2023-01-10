@@ -80,6 +80,26 @@ This is a repository of all tutorials of [Geek Cast](https://geekcast.net) and [
 
 
 
+### Chapter 8. Data Types
+
+|      Part Name       |                          GitHub Doc                          |
+| :------------------: | :----------------------------------------------------------: |
+|      Data Types      |          [Read](/python_basic/Chapter8.Data_Types)           |
+|  Numeric - integer   | [Read](/python_basic/Chapter8.Data_Types#1-1-اعداد-صحیح--integer--int-) |
+|   Numeric - Float    | [Read](/python_basic/Chapter8.Data_Types#2-1-اعشاری--floating-point--float-) |
+|  Numeric - Complex   | [Read](/python_basic/Chapter8.Data_Types#3-1-مختلط--complex-) |
+|    What is Index?    | [Read](/python_basic/Chapter8.Data_Types#منظور-از-index--چیست) |
+|  Sequence - String   | [Read](/python_basic/Chapter8.Data_Types#1-2-رشته--string-)  |
+|   Sequence - List    |  [Read](/python_basic/Chapter8.Data_Types#2-2-لیست--list-)   |
+|   Sequence - Tuple   | [Read](/python_basic/Chapter8.Data_Types#3-2-چندتایی--tuple-) |
+|         Set          |     [Read](/python_basic/Chapter8.Data_Types#3-ست--set-)     |
+| Set vs Tuple vs List | [Read](/python_basic/Chapter8.Data_Types#تفاوت-بین-set-و-tuple-و-list) |
+|      Dictionary      | [Read](/python_basic/Chapter8.Data_Types#4-دیکشنری--dictionary---dict-) |
+|       Boolean        |  [Read](/python_basic/Chapter8.Data_Types#5-بولی--boolean-)  |
+|         None         |    [Read](/python_basic/Chapter8.Data_Types#6-هیچ--none-)    |
+
+
+
 ## License
 
 Anyone may contribute to our project. Submit a pull request or raise an issue.
