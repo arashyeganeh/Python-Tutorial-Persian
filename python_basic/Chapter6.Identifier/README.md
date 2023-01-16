@@ -1,4 +1,4 @@
-# فصل 5. Identifier
+# فصل 6. Identifier
 
 ## قوانین انتخاب نام متغییرها ( Rules For Naming Variables )
 
