@@ -59,7 +59,7 @@
 </li>
 <li>
 	<p>
-	بولی ( Boolean )
+	بولین ( Boolean )
 	</p>
 </li>
 <li>
@@ -68,6 +68,7 @@
 	</p>
 </li>
 </ol>
+
 
 
 
@@ -581,9 +582,9 @@ print(product)
 
 ![](img/dict_duplicate.PNG)
 
-## 5. بولی ( Boolean )
+## 5. بولین ( Boolean )
 
-دیتا boolean فقط شامل دو مقدار True و False می شود.
+نوع داده boolean فقط شامل دو مقدار True و False می شود.
 
 > 💡 دقت کنید، حروف F, T بزرگ می باشند.
 

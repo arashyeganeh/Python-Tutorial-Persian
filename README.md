@@ -109,15 +109,17 @@ This is a repository of all tutorials of [Geek Cast](https://geekcast.net) and [
 | Explicit Type Conversion | [Read](/python_basic/Chapter9.Casting#تبدیل-صریح--explicit-type-conversion-) |
 |      int() Function      | [Read](/python_basic/Chapter9.Casting#1-تبدیل-به-عدد-صحیح-با-متد-int) |
 |     float() Function     | [Read](/python_basic/Chapter9.Casting#2-تبدیل-به-عدد-اعشاری-با-متد-float) |
-|      str() Function      | [Read](/python_basic/Chapter9.Casting#3-تبدیل-به-رشته-با-متد-str) |
-|     list() Function      | [Read](/python_basic/Chapter9.Casting#4-تبدیل-به-لیست-با-متد-list) |
-|     tuple() Function     | [Read](/python_basic/Chapter9.Casting#5-تبدیل-به-تاپل-با-متد-tuple) |
-|      set() Function      | [Read](/python_basic/Chapter9.Casting#6-تبدیل-به-ست-با-متد-set) |
-|     dict() Function      | [Read](/python_basic/Chapter9.Casting#7-تبدیل-به-دیکشنری-با-متد-dict) |
-|      ord() Function      | [Read](/python_basic/Chapter9.Casting#8-تبدیل-به-کد-ascii-با-متد-ord) |
-|      hex() Function      | [Read](/python_basic/Chapter9.Casting#9-تبدیل-عدد-صحیح-به-مبنای-16-با-متد-hex) |
-|      oct() Function      | [Read](/python_basic/Chapter9.Casting#10-تبدیل-عدد-صحیح-به-مبنای-8-با-متد-oct) |
-|      bin() Function      | [Read](/python_basic/Chapter9.Casting#11-تبدیل-عدد-صحیح-به-باینری-با-متد-bin) |
+|    complex() Function    | [Read](/python_basic/Chapter9.Casting#3-تبدیل-به-عدد-مختلط-با-متد-complex) |
+|      str() Function      | [Read](/python_basic/Chapter9.Casting#4-تبدیل-به-رشته-با-متد-str) |
+|     list() Function      | [Read](/python_basic/Chapter9.Casting#5-تبدیل-به-لیست-با-متد-list) |
+|     tuple() Function     | [Read](/python_basic/Chapter9.Casting#6-تبدیل-به-تاپل-با-متد-tuple) |
+|      set() Function      | [Read](/python_basic/Chapter9.Casting#7-تبدیل-به-ست-با-متد-set) |
+|     dict() Function      | [Read](/python_basic/Chapter9.Casting#8-تبدیل-به-دیکشنری-با-متد-dict) |
+|     bool() Function      | [Read](/python_basic/Chapter9.Casting#9-تبدیل-به-بولین-با-متد-bool) |
+|      ord() Function      | [Read](/python_basic/Chapter9.Casting#10-تبدیل-به-کد-ascii-با-متد-ord) |
+|      hex() Function      | [Read](/python_basic/Chapter9.Casting#11-تبدیل-عدد-صحیح-به-مبنای-16-با-متد-hex) |
+|      oct() Function      | [Read](/python_basic/Chapter9.Casting#12-تبدیل-عدد-صحیح-به-مبنای-8-با-متد-oct) |
+|      bin() Function      | [Read](/python_basic/Chapter9.Casting#13-تبدیل-عدد-صحیح-به-باینری-با-متد-bin) |
 
 
 
